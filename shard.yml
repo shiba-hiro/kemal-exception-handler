@@ -1,0 +1,22 @@
+name: kemal-exception-handler 
+version: 0.1.0
+
+authors:
+  - Hirofumi Shibata <33661448+shiba-hiro@users.noreply.github.com>
+
+targets:
+  kemal-exception-handler:
+    main: src/kemal-exception-handler.cr
+
+crystal: 0.25.0
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+development_dependencies:
+    spec-kemal:
+      github: kemalcr/spec-kemal
+
