@@ -5,7 +5,7 @@ kemal-exception-handler is a sample implementation of the original exception han
 
 ## Map particular exceptions with particular processes
 
-[exception_handler.cr]() enables you to make exception handlers like below;
+[exception_handler.cr](https://github.com/shiba-hiro/kemal-exception-handler/blob/master/src/kemal-exception-handler/exception_handler.cr) enables you to make exception handlers like below;
 
 ```ruby
 exception SampleException do |env, ex|
