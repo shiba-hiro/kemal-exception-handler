@@ -8,7 +8,7 @@ targets:
   kemal-exception-handler:
     main: src/kemal-exception-handler.cr
 
-crystal: 0.25.0
+crystal: 0.26.1
 
 license: MIT
 
